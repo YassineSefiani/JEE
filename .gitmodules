@@ -7,3 +7,6 @@
 [submodule "tp2-hospital-jee"]
 	path = tp2-hospital-jee
 	url = https://github.com/YassineSefiani/tp2-hospital-jee
+[submodule "tp2-users-jee"]
+	path = tp2-users-jee
+	url = https://github.com/YassineSefiani/tp2-users-jee
