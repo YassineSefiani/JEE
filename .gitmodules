@@ -1,0 +1,6 @@
+[submodule "tp1-jee"]
+	path = tp1-jee
+	url = https://github.com/YassineSefiani/tp1-jee
+[submodule "tp2-students-app"]
+	path = tp2-students-app
+	url = https://github.com/YassineSefiani/tp2-students-app
