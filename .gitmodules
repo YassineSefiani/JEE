@@ -10,3 +10,6 @@
 [submodule "tp2-users-jee"]
 	path = tp2-users-jee
 	url = https://github.com/YassineSefiani/tp2-users-jee
+[submodule "tp3-JEE"]
+	path = tp3-JEE
+	url = https://github.com/YassineSefiani/tp3-JEE
